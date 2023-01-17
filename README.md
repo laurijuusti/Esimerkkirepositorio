@@ -3,7 +3,7 @@ Esimerkkirepositorio ensimmäistä tehtävää varten
 
 ## Esimerkkiotsikko
 
-Lisää tekstiä
+Hei maailma
 
-        $ Testitekstiä
+        $ Hello world!
         
